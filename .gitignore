@@ -1,0 +1,9 @@
+node_modules
+backend/
+Front-end/
+MySql/
+Mysql-async/
+Mysql-mysql/
+workshop-slides/
+interface.ts
+task.md
